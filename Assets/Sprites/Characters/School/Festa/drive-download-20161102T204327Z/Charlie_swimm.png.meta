@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 4ef796a0cd1d86245b03d8009e9e792f
+timeCreated: 1478119856
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Charlie_swimm_0
+    21300002: Charlie_swimm_1
+    21300004: Charlie_swimm_2
+    21300006: Charlie_swimm_3
+    21300008: Charlie_swimm_4
+    21300010: Charlie_swimm_5
+    21300012: Charlie_swimm_6
+    21300014: Charlie_swimm_7
+    21300016: Charlie_swimm_8
+    21300018: Charlie_swimm_9
+    21300020: Charlie_swimm_10
+    21300022: Charlie_swimm_11
+    21300024: Charlie_swimm_12
+    21300026: Charlie_swimm_13
+    21300028: Charlie_swimm_14
+    21300030: Charlie_swimm_15
+    21300032: Charlie_swimm_16
+    21300034: Charlie_swimm_17
+    21300036: Charlie_swimm_18
+    21300038: Charlie_swimm_19
+    21300040: Charlie_swimm_20
+    21300042: Charlie_swimm_21
+    21300044: Charlie_swimm_22
+    21300046: Charlie_swimm_23
+    21300048: Charlie_swimm_24
+    21300050: Charlie_swimm_25
+    21300052: Charlie_swimm_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Charlie_swimm_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 126
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 126
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 116
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 116
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 95
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 95
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 95
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 93
+        width: 10
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 80
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 79
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 77
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 75
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 45
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Charlie_swimm_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

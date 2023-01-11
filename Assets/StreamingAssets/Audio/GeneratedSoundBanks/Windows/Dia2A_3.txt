@@ -1,0 +1,34 @@
+Event	ID	Name			Wwise Object Path	Notes
+	119530393	Wardrobe			\Default Work Unit\Dia1A_1\Interactions\Wardrobe	
+	993972607	PegouDiario			\Default Work Unit\Dia1A_3\Interactions\PegouDiario	
+	1152300417	KateCustom_01			\Default Work Unit\NPC'S\Kate\KateCustom_01	
+	1152300418	KateCustom_02			\Default Work Unit\NPC'S\Kate\KateCustom_02	
+	1152300419	KateCustom_03			\Default Work Unit\NPC'S\Kate\KateCustom_03	
+	1354761296	EmilyCustom_03			\Default Work Unit\NPC'S\Emily\EmilyCustom_03	
+	1354761297	EmilyCustom_02			\Default Work Unit\NPC'S\Emily\EmilyCustom_02	
+	1354761298	EmilyCustom_01			\Default Work Unit\NPC'S\Emily\EmilyCustom_01	
+	1564629276	GeorgeCustom_02			\Default Work Unit\NPC'S\George\GeorgeCustom_02	
+	1564629277	GeorgeCustom_03			\Default Work Unit\NPC'S\George\GeorgeCustom_03	
+	1564629279	GeorgeCustom_01			\Default Work Unit\NPC'S\George\GeorgeCustom_01	
+	2453418313	KevinCustom_01			\Default Work Unit\NPC'S\Kevin\KevinCustom_01	
+	2453418314	KevinCustom_02			\Default Work Unit\NPC'S\Kevin\KevinCustom_02	
+	2453418315	KevinCustom_03			\Default Work Unit\NPC'S\Kevin\KevinCustom_03	
+	4087199459	SeDeitou			\Default Work Unit\Dia1A_3\Interactions\SeDeitou	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	170650	PHY_Paper_Book_L_03	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\PHY_Paper_Book_L_03_69982D43.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia1A_3\Interactions\PHY_Paper_Book_L_03		102144
+	89765353	Pai_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai_01		470838
+	178443675	Mom_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_02		136550
+	218025860	Kevin_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin_01		278636
+	293744596	Emily	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Emily\Emily		172290
+	482048844	Pai	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai		375660
+	502540770	Mom_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_01		105886
+	552102837	Kevin_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin_02		369386
+	577606637	Mom	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom		105886
+	603262572	Pai_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai_02		506656
+	693401207	Kevin	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin		386044
+	779146935	Emily_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Emily\Emily_02		248864
+	807886432	Emily_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Emily\Emily_01		165762
+	887516344	Wardrobe	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\door_open_004_271B343F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia1A_1\Interactions\Wardrobe		67040
+	1015505133	NPC_Human_Idle_Bed_Exit_Right_Fast_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Idle_Bed_Exit_Right_Fast_01_BD25636A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia1A_3\Interactions\NPC_Human_Idle_Bed_Exit_Right_Fast_01		242516
+

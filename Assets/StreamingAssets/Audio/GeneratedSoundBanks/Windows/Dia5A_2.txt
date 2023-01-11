@@ -1,0 +1,61 @@
+Event	ID	Name			Wwise Object Path	Notes
+	691892316	DanCustom_02			\Default Work Unit\NPC'S\Dan\DanCustom_02	
+	691892317	DanCustom_03			\Default Work Unit\NPC'S\Dan\DanCustom_03	
+	691892319	DanCustom_01			\Default Work Unit\NPC'S\Dan\DanCustom_01	
+	761317824	CrisCustom_02			\Default Work Unit\NPC'S\Cris\CrisCustom_02	
+	761317825	CrisCustom_03			\Default Work Unit\NPC'S\Cris\CrisCustom_03	
+	761317827	CrisCustom_01			\Default Work Unit\NPC'S\Cris\CrisCustom_01	
+	913700812	RonaldCustom_01			\Default Work Unit\NPC'S\Ronald\RonaldCustom_01	
+	913700814	RonaldCustom_03			\Default Work Unit\NPC'S\Ronald\RonaldCustom_03	
+	913700815	RonaldCustom_02			\Default Work Unit\NPC'S\Ronald\RonaldCustom_02	
+	1840304468	JennyCustom_01			\Default Work Unit\NPC'S\Jenny\JennyCustom_01	
+	1840304470	JennyCustom_03			\Default Work Unit\NPC'S\Jenny\JennyCustom_03	
+	1840304471	JennyCustom_02			\Default Work Unit\NPC'S\Jenny\JennyCustom_02	
+	2453418313	KevinCustom_01			\Default Work Unit\NPC'S\Kevin\KevinCustom_01	
+	2453418314	KevinCustom_02			\Default Work Unit\NPC'S\Kevin\KevinCustom_02	
+	2453418315	KevinCustom_03			\Default Work Unit\NPC'S\Kevin\KevinCustom_03	
+	2529322020	JamesCustom_01			\Default Work Unit\NPC'S\James\JamesCustom_01	
+	2529322022	JamesCustom_03			\Default Work Unit\NPC'S\James\JamesCustom_03	
+	2529322023	JamesCustom_02			\Default Work Unit\NPC'S\James\JamesCustom_02	
+	2935680425	StevenCustom_01			\Default Work Unit\NPC'S\Steven\StevenCustom_01	
+	2935680426	StevenCustom_02			\Default Work Unit\NPC'S\Steven\StevenCustom_02	
+	2935680427	StevenCustom_03			\Default Work Unit\NPC'S\Steven\StevenCustom_03	
+	3017065837	LukeCustom_01			\Default Work Unit\NPC'S\Luke\LukeCustom_01	
+	3017065838	LukeCustom_02			\Default Work Unit\NPC'S\Luke\LukeCustom_02	
+	3017065839	LukeCustom_03			\Default Work Unit\NPC'S\Luke\LukeCustom_03	
+	4185777061	StephenCustom_01			\Default Work Unit\NPC'S\Stephen\StephenCustom_01	
+	4185777062	StephenCustom_02			\Default Work Unit\NPC'S\Stephen\StephenCustom_02	
+	4185777063	StephenCustom_03			\Default Work Unit\NPC'S\Stephen\StephenCustom_03	
+	4199484308	PamelaCustom_01			\Default Work Unit\NPC'S\Pamela\PamelaCustom_01	
+	4199484310	PamelaCustom_03			\Default Work Unit\NPC'S\Pamela\PamelaCustom_03	
+	4199484311	PamelaCustom_02			\Default Work Unit\NPC'S\Pamela\PamelaCustom_02	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	97394752	Voice05_James	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice05_James_58E3C3CD.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\James\Voice05_James		788108
+	116793765	Voice12_Pamela_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice12_Pamela_5903BF0E.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Pamela\Voice12_Pamela_02		373772
+	179884788	Voice04_Cris_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice04_Cris_7768C7E9.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Cris\Voice04_Cris_02		666524
+	218025860	Kevin_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin_01		278636
+	238646209	Prof_Stephen_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_64225425.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Stephen\Prof_Stephen_02		689028
+	259089023	Voice03_Jenny	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice03_Jenny_5EDA5E04.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Jenny\Voice03_Jenny		1017700
+	332198877	Voice04_Cris	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice04_Cris_A5C26843.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Cris\Voice04_Cris		641136
+	367588512	Voice04_Cris_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice04_Cris_02D2FE8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Cris\Voice04_Cris_01		1021972
+	374283509	Dan_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Dan\Dan_02		313488
+	377844450	Dan_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Dan\Dan_01		220100
+	434011045	160317-efx-educitylabs-educity-voz1	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Luke\160317-efx-educitylabs-educity-voz1		470856
+	511259904	Prof_Stephen	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_2C7424DB.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Stephen\Prof_Stephen		1286260
+	552102837	Kevin_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin_02		369386
+	587829002	Voice05_James_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice05_James_8CC73B7A.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\James\Voice05_James_02		811172
+	588088719	Voice03_Jenny_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice03_Jenny_34C5915E.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Jenny\Voice03_Jenny_02		1254480
+	604661439	160317-efx-educitylabs-educity-voz1_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Luke\160317-efx-educitylabs-educity-voz1_02		604384
+	615367133	Voice12_Pamela_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice12_Pamela_9A162DB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Pamela\Voice12_Pamela_01		456504
+	630094654	Voice05_James_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice05_James_FBA3C6D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\James\Voice05_James_01		945712
+	685435698	Steven	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Steven\Steven		599260
+	693401207	Kevin	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin		386044
+	796962000	Voice03_Jenny_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice03_Jenny_E0191037.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Jenny\Voice03_Jenny_01		1047928
+	918580684	Prof_Stephen_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_1213CC1C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Stephen\Prof_Stephen_01		1020408
+	959368615	160317-efx-educitylabs-educity-voz1_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Ronald\160317-efx-educitylabs-educity-voz1_01		801220
+	975658642	Voice12_Pamela	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice12_Pamela_33A9F1D3.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Pamela\Voice12_Pamela		527824
+	1051368459	Steven_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Steven\Steven_02		544552
+	1060002512	Dan	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Dan\Dan		333954
+	1062955276	Steven_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Steven\Steven_01		725612
+

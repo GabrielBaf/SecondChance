@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1287408361	GunShot			\Default Work Unit\Dia6Bad\GunShot	
+	1559339507	MovingFurniture			\Default Work Unit\Dia6Bad\MovingFurniture	
+	1580542583	GettingPicture			\Default Work Unit\Dia6Bad\GettingPicture	
+	3110848068	DroppingGun			\Default Work Unit\Dia6Bad\DroppingGun	
+	3437271756	DroppingPicture			\Default Work Unit\Dia6Bad\DroppingPicture	
+	4050572747	GettingGun			\Default Work Unit\Dia6Bad\GettingGun	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	362496059	Draging Kitchen Cabinets 04	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Draging Kitchen Cabinets 04_B35DD066.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia5A_1\Draging Kitchen Cabinets 04		171732
+	903112018	26 Beretta Pistol (32 Cal_)	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\26 Beretta Pistol (32 Cal.)_A34C4F2F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia5A_1\26 Beretta Pistol (32 Cal_)		171888
+	923044462	65 Book Drop On Table_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\65 Book Drop On Table_5986A379.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia5A_1\65 Book Drop On Table_01		160916
+

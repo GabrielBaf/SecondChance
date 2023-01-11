@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="411803028" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia5B_1</ObjectPath>
+			<ShortName>Dia5B_1</ShortName>
+			<Path>Dia5B_1.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="411803031" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia5B_2</ObjectPath>
+			<ShortName>Dia5B_2</ShortName>
+			<Path>Dia5B_2.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="412244312" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia5A_2</ObjectPath>
+			<ShortName>Dia5A_2</ShortName>
+			<Path>Dia5A_2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="761317827" Name="CrisCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_01"/>
+				<Event Id="761317824" Name="CrisCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_02"/>
+				<Event Id="761317825" Name="CrisCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="2529322020" Name="JamesCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_01"/>
+				<Event Id="2529322023" Name="JamesCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_02"/>
+				<Event Id="2529322022" Name="JamesCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_03"/>
+				<Event Id="1840304468" Name="JennyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_01"/>
+				<Event Id="1840304471" Name="JennyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_02"/>
+				<Event Id="1840304470" Name="JennyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="3017065837" Name="LukeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Luke\LukeCustom_01"/>
+				<Event Id="3017065838" Name="LukeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Luke\LukeCustom_02"/>
+				<Event Id="3017065839" Name="LukeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Luke\LukeCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="4185777061" Name="StephenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_01"/>
+				<Event Id="4185777062" Name="StephenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_02"/>
+				<Event Id="4185777063" Name="StephenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="97394752" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_58E3C3CD.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="179884788" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_7768C7E9.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="238646209" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_64225425.wem</Path>
+				</File>
+				<File Id="259089023" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_5EDA5E04.wem</Path>
+				</File>
+				<File Id="332198877" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_A5C26843.wem</Path>
+				</File>
+				<File Id="367588512" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_02D2FE8F.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="511259904" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_2C7424DB.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="587829002" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_8CC73B7A.wem</Path>
+				</File>
+				<File Id="588088719" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_34C5915E.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="630094654" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_FBA3C6D8.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="796962000" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_E0191037.wem</Path>
+				</File>
+				<File Id="918580684" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_1213CC1C.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="412244313" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia5A_3</ObjectPath>
+			<ShortName>Dia5A_3</ShortName>
+			<Path>Dia5A_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3057551814" Name="CaseCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Case\CaseCustom_01"/>
+				<Event Id="3057551813" Name="CaseCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Case\CaseCustom_02"/>
+				<Event Id="3057551812" Name="CaseCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Case\CaseCustom_03"/>
+				<Event Id="1266172008" Name="CharlieTyping" ObjectPath="\Events\Default Work Unit\Dia4A_3\CharlieTyping"/>
+				<Event Id="1564629279" Name="GeorgeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_01"/>
+				<Event Id="1564629276" Name="GeorgeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_02"/>
+				<Event Id="1564629277" Name="GeorgeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="60142366" Language="SFX">
+					<ShortName>NPC_Human_Typing_05.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_05_9E69E797.wem</Path>
+				</File>
+				<File Id="89765353" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="282548665" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_812F0D05.wem</Path>
+				</File>
+				<File Id="392584505" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_8D4E7EFE.wem</Path>
+				</File>
+				<File Id="482048844" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="589360985" Language="SFX">
+					<ShortName>NPC_Human_Typing_02.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_02_9E69E797.wem</Path>
+				</File>
+				<File Id="603262572" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem</Path>
+				</File>
+				<File Id="755098780" Language="SFX">
+					<ShortName>NPC_Human_Typing_04.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_04_9E69E797.wem</Path>
+				</File>
+				<File Id="896232550" Language="SFX">
+					<ShortName>NPC_Human_Typing_03.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_03_9E69E797.wem</Path>
+				</File>
+				<File Id="980768071" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_0B8E3331.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="412244315" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia5A_1</ObjectPath>
+			<ShortName>Dia5A_1</ShortName>
+			<Path>Dia5A_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1564629279" Name="GeorgeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_01"/>
+				<Event Id="1564629276" Name="GeorgeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_02"/>
+				<Event Id="1564629277" Name="GeorgeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="1993190953" Name="Mijando" ObjectPath="\Events\Default Work Unit\Dia5A_1\Mijando"/>
+				<Event Id="929353362" Name="Sandwish" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Sandwish"/>
+				<Event Id="805220752" Name="Sink" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Sink"/>
+				<Event Id="1568083719" Name="TV" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\TV"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="89765353" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="241059728" Language="SFX">
+					<ShortName>39 Brushing Teeth.wav</ShortName>
+					<Path>SFX\39 Brushing Teeth_697F0963.wem</Path>
+				</File>
+				<File Id="482048844" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="523099305" Language="SFX">
+					<ShortName>draining sink 2.wav</ShortName>
+					<Path>SFX\draining sink 2_5905CB98.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="603262572" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem</Path>
+				</File>
+				<File Id="817727208" Language="SFX">
+					<ShortName>VOZES SFX\TELEVISAO\160307-efx-fazgame-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\TELEVISAO\160307-efx-fazgame-voz4_A7F9AF6C.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+				<File Id="927776871" Language="SFX">
+					<ShortName>EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose.wav</ShortName>
+					<Path>SFX\EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose_9FD347A8.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="609863716" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia1A_2</ObjectPath>
+			<ShortName>Dia1A_2</ShortName>
+			<Path>Dia1A_2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2572587972" Name="AnneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_01"/>
+				<Event Id="2572587975" Name="AnneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_02"/>
+				<Event Id="2572587974" Name="AnneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_03"/>
+				<Event Id="214472638" Name="Bebedouro" ObjectPath="\Events\Default Work Unit\Dia1A_2\Interactions\Bebedouro"/>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="75845350" Name="Cadeira" ObjectPath="\Events\Default Work Unit\Dia1A_2\Interactions\Cadeira"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="1722754900" Name="ElizabethCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Elizabeth\ElizabethCustom_01"/>
+				<Event Id="1722754903" Name="ElizabethCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Elizabeth\ElizabethCustom_02"/>
+				<Event Id="1722754902" Name="ElizabethCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Elizabeth\ElizabethCustom_03"/>
+				<Event Id="1354761298" Name="EmilyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_01"/>
+				<Event Id="1354761297" Name="EmilyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_02"/>
+				<Event Id="1354761296" Name="EmilyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="2747524425" Name="Maquina" ObjectPath="\Events\Default Work Unit\Dia1A_2\Interactions\Maquina"/>
+				<Event Id="3126857609" Name="MudouDeCadeira" ObjectPath="\Events\Default Work Unit\Dia1A_2\Interactions\MudouDeCadeira"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="3385264003" Name="SalaErrada" ObjectPath="\Events\Default Work Unit\Dia1A_2\Interactions\SalaErrada"/>
+				<Event Id="2535727499" Name="SecretariaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_01"/>
+				<Event Id="2535727496" Name="SecretariaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_02"/>
+				<Event Id="2535727497" Name="SecretariaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_03"/>
+				<Event Id="4185777061" Name="StephenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_01"/>
+				<Event Id="4185777062" Name="StephenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_02"/>
+				<Event Id="4185777063" Name="StephenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14967820" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_78B53E05.wem</Path>
+				</File>
+				<File Id="74288378" Language="SFX">
+					<ShortName>22 Chair_Wood Foley1.wav</ShortName>
+					<Path>SFX\22 Chair_Wood Foley1_A0C507A2.wem</Path>
+				</File>
+				<File Id="88171752" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_F988D982.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="120265338" Language="SFX">
+					<ShortName>Door Lock.wav</ShortName>
+					<Path>SFX\Door Lock_93380A70.wem</Path>
+				</File>
+				<File Id="175551161" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_A455EF7D.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="238646209" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_64225425.wem</Path>
+				</File>
+				<File Id="293744596" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem</Path>
+				</File>
+				<File Id="322248763" Language="SFX">
+					<ShortName>91 Mother Bates Rockin#2EC0.wav</ShortName>
+					<Path>SFX\91 Mother Bates Rockin#2EC0_72D81743.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="401671933" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_3D33598B.wem</Path>
+				</File>
+				<File Id="410155522" Language="SFX">
+					<ShortName>37-80 Vending Machine Can Dispenser_Insert Coin.wav</ShortName>
+					<Path>SFX\37-80 Vending Machine Can Dispenser_Insert Coin_9C917F0E.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="491562406" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_9E69E797.wem</Path>
+				</File>
+				<File Id="504821499" Language="SFX">
+					<ShortName>46 Drinking Fountain ; Taking Drink.wav</ShortName>
+					<Path>SFX\46 Drinking Fountain ; Taking Drink_00E4A929.wem</Path>
+				</File>
+				<File Id="511259904" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_2C7424DB.wem</Path>
+				</File>
+				<File Id="514570708" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_BB406FDF.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="644625652" Language="SFX">
+					<ShortName>Voice11_Marianne.wav</ShortName>
+					<Path>SFX\Voice11_Marianne_C1FDCFB4.wem</Path>
+				</File>
+				<File Id="665771028" Language="SFX">
+					<ShortName>Voice11_Marianne.wav</ShortName>
+					<Path>SFX\Voice11_Marianne_5598CC36.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="779146935" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem</Path>
+				</File>
+				<File Id="807886432" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="913765953" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_9DDEE319.wem</Path>
+				</File>
+				<File Id="915246107" Language="SFX">
+					<ShortName>Voice11_Marianne.wav</ShortName>
+					<Path>SFX\Voice11_Marianne_F3770206.wem</Path>
+				</File>
+				<File Id="918580684" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_1213CC1C.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="609863717" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia1A_3</ObjectPath>
+			<ShortName>Dia1A_3</ShortName>
+			<Path>Dia1A_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="2827377004" Name="ArmarioFechando" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\ArmarioFechando"/>
+				<Event Id="2229901653" Name="BateuCostasNoArmario" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\BateuCostasNoArmario"/>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="3849292964" Name="CharlieGrito" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\CharlieGrito"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="426988933" Name="JackCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_01"/>
+				<Event Id="426988934" Name="JackCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_02"/>
+				<Event Id="3721384044" Name="JennaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_01"/>
+				<Event Id="3721384047" Name="JennaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_02"/>
+				<Event Id="3721384046" Name="JennaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_03"/>
+				<Event Id="1840304468" Name="JennyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_01"/>
+				<Event Id="1840304471" Name="JennyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_02"/>
+				<Event Id="1840304470" Name="JennyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="993972607" Name="PegouDiario" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\PegouDiario"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="4087199459" Name="SeDeitou" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\SeDeitou"/>
+				<Event Id="4185777061" Name="StephenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_01"/>
+				<Event Id="4185777062" Name="StephenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_02"/>
+				<Event Id="4185777063" Name="StephenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="170650" Language="SFX">
+					<ShortName>PHY_Paper_Book_L_03.wav</ShortName>
+					<Path>SFX\PHY_Paper_Book_L_03_69982D43.wem</Path>
+				</File>
+				<File Id="31437236" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_6E24B0BD.wem</Path>
+				</File>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="238646209" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_64225425.wem</Path>
+				</File>
+				<File Id="259089023" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_5EDA5E04.wem</Path>
+				</File>
+				<File Id="305011810" Language="SFX">
+					<ShortName>DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com).wav</ShortName>
+					<Path>SFX\DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com)_8DF5F579.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="392584505" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_8D4E7EFE.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="511259904" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_2C7424DB.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="581453378" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_903F48F4.wem</Path>
+				</File>
+				<File Id="588088719" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_34C5915E.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="796962000" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_E0191037.wem</Path>
+				</File>
+				<File Id="802864675" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz6.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_E6A763C5.wem</Path>
+				</File>
+				<File Id="840472770" Language="SFX">
+					<ShortName>Hit Impact Hard Metal Scrap Debris_UC 01.wav</ShortName>
+					<Path>SFX\Hit Impact Hard Metal Scrap Debris_UC 01_97655BC4.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+				<File Id="891060226" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_64D351E4.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="918580684" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_1213CC1C.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+				<File Id="980768071" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_0B8E3331.wem</Path>
+				</File>
+				<File Id="1015505133" Language="SFX">
+					<ShortName>NPC_Human_Idle_Bed_Exit_Right_Fast_01.wav</ShortName>
+					<Path>SFX\NPC_Human_Idle_Bed_Exit_Right_Fast_01_BD25636A.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="609863719" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia1A_1</ObjectPath>
+			<ShortName>Dia1A_1</ShortName>
+			<Path>Dia1A_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="855317084" Name="Alarm" ObjectPath="\Events\Default Work Unit\Dia1A_1\Intro\Alarm"/>
+				<Event Id="663045065" Name="Diario" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Diario"/>
+				<Event Id="1564629279" Name="GeorgeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_01"/>
+				<Event Id="1564629276" Name="GeorgeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_02"/>
+				<Event Id="1564629277" Name="GeorgeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="929353362" Name="Sandwish" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Sandwish"/>
+				<Event Id="805220752" Name="Sink" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Sink"/>
+				<Event Id="1568083719" Name="TV" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\TV"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="89765353" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="179920325" Language="SFX">
+					<ShortName>Paper Handling and Turning Sequence.wav</ShortName>
+					<Path>SFX\Paper Handling and Turning Sequence_BC4E3CFC.wem</Path>
+				</File>
+				<File Id="241059728" Language="SFX">
+					<ShortName>39 Brushing Teeth.wav</ShortName>
+					<Path>SFX\39 Brushing Teeth_697F0963.wem</Path>
+				</File>
+				<File Id="482048844" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="523099305" Language="SFX">
+					<ShortName>draining sink 2.wav</ShortName>
+					<Path>SFX\draining sink 2_5905CB98.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="603262572" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem</Path>
+				</File>
+				<File Id="817727208" Language="SFX">
+					<ShortName>VOZES SFX\TELEVISAO\160307-efx-fazgame-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\TELEVISAO\160307-efx-fazgame-voz4_A7F9AF6C.wem</Path>
+				</File>
+				<File Id="834605693" Language="SFX">
+					<ShortName>Alarm Clock Digital Buzzer.wav</ShortName>
+					<Path>SFX\Alarm Clock Digital Buzzer_F2167678.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+				<File Id="927776871" Language="SFX">
+					<ShortName>EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose.wav</ShortName>
+					<Path>SFX\EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose_9FD347A8.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1049063837" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\GeneralBank</ObjectPath>
+			<ShortName>GeneralBank</ShortName>
+			<Path>GeneralBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3771076737" Name="Bullying" ObjectPath="\Events\Default Work Unit\Soundtracks\Bullying"/>
+				<Event Id="3858835090" Name="CharlieCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Charlie\CharlieCustom_01"/>
+				<Event Id="3858835089" Name="CharlieCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Charlie\CharlieCustom_02"/>
+				<Event Id="3858835088" Name="CharlieCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Charlie\CharlieCustom_03"/>
+				<Event Id="1584507803" Name="Click" ObjectPath="\Events\Default Work Unit\SFX\Click"/>
+				<Event Id="2447300874" Name="Dia1" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia1"/>
+				<Event Id="2447300873" Name="Dia2" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia2"/>
+				<Event Id="2447300872" Name="Dia3" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia3"/>
+				<Event Id="2447300879" Name="Dia4" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia4"/>
+				<Event Id="2447300878" Name="Dia5" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia5"/>
+				<Event Id="676839673" Name="Dia6_Bad" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia6_Bad"/>
+				<Event Id="1965502639" Name="Dia6_Good" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia6_Good"/>
+				<Event Id="123504932" Name="Dia6_Soso" ObjectPath="\Events\Default Work Unit\Soundtracks\Dia6_Soso"/>
+				<Event Id="2150196036" Name="Doors" ObjectPath="\Events\Default Work Unit\SFX\Doors"/>
+				<Event Id="2164551921" Name="DoorsLock" ObjectPath="\Events\Default Work Unit\SFX\DoorsLock"/>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\SFX\Footstep"/>
+				<Event Id="1661450949" Name="MainMenuSoundtrack" ObjectPath="\Events\Default Work Unit\MainMenu\MainMenuSoundtrack"/>
+				<Event Id="2485912686" Name="MenuAudio" ObjectPath="\Events\Default Work Unit\SFX\MenuAudio"/>
+				<Event Id="1839364416" Name="Relogio" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Relogio"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="95520496" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz6.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_CCDAB353.wem</Path>
+				</File>
+				<File Id="101858290" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz6.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_E4EC0AFB.wem</Path>
+				</File>
+				<File Id="120265338" Language="SFX">
+					<ShortName>Door Lock.wav</ShortName>
+					<Path>SFX\Door Lock_93380A70.wem</Path>
+				</File>
+				<File Id="139648479" Language="SFX">
+					<ShortName>Saveiro-Track-Viola-160429.wav</ShortName>
+					<Path>SFX\Saveiro-Track-Viola-160429_BA19D509.wem</Path>
+				</File>
+				<File Id="144206188" Language="SFX">
+					<ShortName>Boticario Natal 2016 -B.wav</ShortName>
+					<Path>SFX\Boticario Natal 2016 -B_BFF28D4B.wem</Path>
+				</File>
+				<File Id="179598504" Language="SFX">
+					<ShortName>Friboi-Trilha-151023-.wav</ShortName>
+					<Path>SFX\Friboi-Trilha-151023-_F353A0BA.wem</Path>
+				</File>
+				<File Id="183181789" Language="SFX">
+					<ShortName>Gol-Irmaos-160204-Part-A-Op-2.wav</ShortName>
+					<Path>SFX\Gol-Irmaos-160204-Part-A-Op-2_B62EAAE8.wem</Path>
+				</File>
+				<File Id="317091201" Language="SFX">
+					<ShortName>cea-china-piano.wav</ShortName>
+					<Path>SFX\cea-china-piano_BA19D509.wem</Path>
+				</File>
+				<File Id="357736675" Language="SFX">
+					<ShortName>17-19 Footsteps, Wood Female Barefoot.wav</ShortName>
+					<Path>SFX\17-19 Footsteps, Wood Female Barefoot_540C8A87.wem</Path>
+				</File>
+				<File Id="377988779" Language="SFX">
+					<ShortName>Tam-Boticario-Armadilha-Trl-1.wav</ShortName>
+					<Path>SFX\Tam-Boticario-Armadilha-Trl-1_BA19D509.wem</Path>
+				</File>
+				<File Id="401059053" Language="SFX">
+					<ShortName>Cuckoo Clock Toll_10.wav</ShortName>
+					<Path>SFX\Cuckoo Clock Toll_10_5C63A546.wem</Path>
+				</File>
+				<File Id="603581008" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz6.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_D7648BD2.wem</Path>
+				</File>
+				<File Id="673116538" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_AD188820.wem</Path>
+				</File>
+				<File Id="746707223" Language="SFX">
+					<ShortName>Arcade Click Positive 07.wav</ShortName>
+					<Path>SFX\Arcade Click Positive 07_F88C0666.wem</Path>
+				</File>
+				<File Id="796471443" Language="SFX">
+					<ShortName>Boticario Casamento-160601.wav</ShortName>
+					<Path>SFX\Boticario Casamento-160601_1D5A6ECC.wem</Path>
+				</File>
+				<File Id="822904320" Language="SFX">
+					<ShortName>100427-PU_06-Rodrigo-60s.wav</ShortName>
+					<Path>SFX\100427-PU_06-Rodrigo-60s_BA19D509.wem</Path>
+				</File>
+				<File Id="1034854999" Language="SFX">
+					<ShortName>Gol-Irmaos-160203-90s-op2.wav</ShortName>
+					<Path>SFX\Gol-Irmaos-160203-90s-op2_DF1008CC.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2239027136" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia4A_1</ObjectPath>
+			<ShortName>Dia4A_1</ShortName>
+			<Path>Dia4A_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="549763853" Name="CarKeys" ObjectPath="\Events\Default Work Unit\Dia4A_1\CarKeys"/>
+				<Event Id="1564629279" Name="GeorgeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_01"/>
+				<Event Id="1564629276" Name="GeorgeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_02"/>
+				<Event Id="1564629277" Name="GeorgeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="89765353" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem</Path>
+				</File>
+				<File Id="170943685" Language="SFX">
+					<ShortName>78 Dog_Collar (online-audio-converter.com).wav</ShortName>
+					<Path>SFX\78 Dog_Collar (online-audio-converter.com)_A51F6442.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="482048844" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="603262572" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2239027138" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia4A_3</ObjectPath>
+			<ShortName>Dia4A_3</ShortName>
+			<Path>Dia4A_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1266172008" Name="CharlieTyping" ObjectPath="\Events\Default Work Unit\Dia4A_3\CharlieTyping"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="4080227583" Name="FeltWater" ObjectPath="\Events\Default Work Unit\Dia4A_3\FeltWater"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="2480698417" Name="SwimAudio" ObjectPath="\Events\Default Work Unit\Dia3A_2\SwimAudio"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="60142366" Language="SFX">
+					<ShortName>NPC_Human_Typing_05.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_05_9E69E797.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="571443548" Language="SFX">
+					<ShortName>Water_Splash_SeaLion_Fienup_001.wav</ShortName>
+					<Path>SFX\Water_Splash_SeaLion_Fienup_001_55EBDC3F.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="589360985" Language="SFX">
+					<ShortName>NPC_Human_Typing_02.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_02_9E69E797.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="704598463" Language="SFX">
+					<ShortName>NPC_Human_Swim_Forward_Crawl_2D_02.wav</ShortName>
+					<Path>SFX\NPC_Human_Swim_Forward_Crawl_2D_02_973A3CAE.wem</Path>
+				</File>
+				<File Id="755098780" Language="SFX">
+					<ShortName>NPC_Human_Typing_04.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_04_9E69E797.wem</Path>
+				</File>
+				<File Id="896232550" Language="SFX">
+					<ShortName>NPC_Human_Typing_03.wav</ShortName>
+					<Path>SFX\NPC_Human_Typing_03_9E69E797.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2239027139" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia4A_2</ObjectPath>
+			<ShortName>Dia4A_2</ShortName>
+			<Path>Dia4A_2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="2572587972" Name="AnneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_01"/>
+				<Event Id="2572587975" Name="AnneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_02"/>
+				<Event Id="2572587974" Name="AnneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_03"/>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="1354761298" Name="EmilyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_01"/>
+				<Event Id="1354761297" Name="EmilyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_02"/>
+				<Event Id="1354761296" Name="EmilyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_03"/>
+				<Event Id="426988933" Name="JackCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_01"/>
+				<Event Id="426988934" Name="JackCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_02"/>
+				<Event Id="426988935" Name="JackCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_03"/>
+				<Event Id="2529322020" Name="JamesCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_01"/>
+				<Event Id="2529322023" Name="JamesCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_02"/>
+				<Event Id="2529322022" Name="JamesCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_03"/>
+				<Event Id="3721384044" Name="JennaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_01"/>
+				<Event Id="3721384047" Name="JennaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_02"/>
+				<Event Id="3721384046" Name="JennaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_03"/>
+				<Event Id="1840304468" Name="JennyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_01"/>
+				<Event Id="1840304471" Name="JennyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_02"/>
+				<Event Id="1840304470" Name="JennyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="47168252" Name="KissSound" ObjectPath="\Events\Default Work Unit\Dia4A_2\KissSound"/>
+				<Event Id="946174303" Name="LeroyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_01"/>
+				<Event Id="946174300" Name="LeroyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_02"/>
+				<Event Id="946174301" Name="LeroyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14967820" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_78B53E05.wem</Path>
+				</File>
+				<File Id="31437236" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_6E24B0BD.wem</Path>
+				</File>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="88171752" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_F988D982.wem</Path>
+				</File>
+				<File Id="97394752" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_58E3C3CD.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="249679868" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_DB36D8C0.wem</Path>
+				</File>
+				<File Id="250651407" Language="SFX">
+					<ShortName>Kiss 01 ZG.wav</ShortName>
+					<Path>SFX\Kiss 01 ZG_9E69E797.wem</Path>
+				</File>
+				<File Id="259089023" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_5EDA5E04.wem</Path>
+				</File>
+				<File Id="282548665" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_812F0D05.wem</Path>
+				</File>
+				<File Id="293744596" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem</Path>
+				</File>
+				<File Id="317993214" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_E91CD053.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="392584505" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_8D4E7EFE.wem</Path>
+				</File>
+				<File Id="403086888" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_3D9D65DE.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="581453378" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_903F48F4.wem</Path>
+				</File>
+				<File Id="587829002" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_8CC73B7A.wem</Path>
+				</File>
+				<File Id="588088719" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_34C5915E.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="630094654" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_FBA3C6D8.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="778134471" Language="SFX">
+					<ShortName>Kiss 02 ZG.wav</ShortName>
+					<Path>SFX\Kiss 02 ZG_9E69E797.wem</Path>
+				</File>
+				<File Id="779146935" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem</Path>
+				</File>
+				<File Id="796962000" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_E0191037.wem</Path>
+				</File>
+				<File Id="807886432" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem</Path>
+				</File>
+				<File Id="891060226" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_64D351E4.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="913765953" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_9DDEE319.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+				<File Id="980768071" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_0B8E3331.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2239468420" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia4B_2</ObjectPath>
+			<ShortName>Dia4B_2</ShortName>
+			<Path>Dia4B_2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="2572587972" Name="AnneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_01"/>
+				<Event Id="2572587975" Name="AnneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_02"/>
+				<Event Id="2572587974" Name="AnneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_03"/>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="761317827" Name="CrisCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_01"/>
+				<Event Id="761317824" Name="CrisCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_02"/>
+				<Event Id="761317825" Name="CrisCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="1354761298" Name="EmilyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_01"/>
+				<Event Id="1354761297" Name="EmilyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_02"/>
+				<Event Id="1354761296" Name="EmilyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_03"/>
+				<Event Id="4080227583" Name="FeltWater" ObjectPath="\Events\Default Work Unit\Dia4A_3\FeltWater"/>
+				<Event Id="426988933" Name="JackCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_01"/>
+				<Event Id="426988934" Name="JackCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_02"/>
+				<Event Id="426988935" Name="JackCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_03"/>
+				<Event Id="2529322020" Name="JamesCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_01"/>
+				<Event Id="2529322023" Name="JamesCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_02"/>
+				<Event Id="2529322022" Name="JamesCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_03"/>
+				<Event Id="3721384044" Name="JennaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_01"/>
+				<Event Id="3721384047" Name="JennaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_02"/>
+				<Event Id="3721384046" Name="JennaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_03"/>
+				<Event Id="1840304468" Name="JennyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_01"/>
+				<Event Id="1840304471" Name="JennyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_02"/>
+				<Event Id="1840304470" Name="JennyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="946174303" Name="LeroyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_01"/>
+				<Event Id="946174300" Name="LeroyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_02"/>
+				<Event Id="946174301" Name="LeroyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14967820" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_78B53E05.wem</Path>
+				</File>
+				<File Id="31437236" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_6E24B0BD.wem</Path>
+				</File>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="88171752" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_F988D982.wem</Path>
+				</File>
+				<File Id="97394752" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_58E3C3CD.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="179884788" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_7768C7E9.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="249679868" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_DB36D8C0.wem</Path>
+				</File>
+				<File Id="259089023" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_5EDA5E04.wem</Path>
+				</File>
+				<File Id="282548665" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_812F0D05.wem</Path>
+				</File>
+				<File Id="293744596" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem</Path>
+				</File>
+				<File Id="317993214" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_E91CD053.wem</Path>
+				</File>
+				<File Id="332198877" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_A5C26843.wem</Path>
+				</File>
+				<File Id="367588512" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_02D2FE8F.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="392584505" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_8D4E7EFE.wem</Path>
+				</File>
+				<File Id="403086888" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_3D9D65DE.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="571443548" Language="SFX">
+					<ShortName>Water_Splash_SeaLion_Fienup_001.wav</ShortName>
+					<Path>SFX\Water_Splash_SeaLion_Fienup_001_55EBDC3F.wem</Path>
+				</File>
+				<File Id="581453378" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_903F48F4.wem</Path>
+				</File>
+				<File Id="587829002" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_8CC73B7A.wem</Path>
+				</File>
+				<File Id="588088719" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_34C5915E.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="630094654" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_FBA3C6D8.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="779146935" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem</Path>
+				</File>
+				<File Id="796962000" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_E0191037.wem</Path>
+				</File>
+				<File Id="807886432" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem</Path>
+				</File>
+				<File Id="891060226" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_64D351E4.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="913765953" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_9DDEE319.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+				<File Id="980768071" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_0B8E3331.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2239468423" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia4B_1</ObjectPath>
+			<ShortName>Dia4B_1</ShortName>
+			<Path>Dia4B_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="2572587972" Name="AnneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_01"/>
+				<Event Id="2572587975" Name="AnneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_02"/>
+				<Event Id="2572587974" Name="AnneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_03"/>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="761317827" Name="CrisCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_01"/>
+				<Event Id="761317824" Name="CrisCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_02"/>
+				<Event Id="761317825" Name="CrisCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="1354761298" Name="EmilyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_01"/>
+				<Event Id="1354761297" Name="EmilyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_02"/>
+				<Event Id="1354761296" Name="EmilyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_03"/>
+				<Event Id="426988933" Name="JackCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_01"/>
+				<Event Id="426988934" Name="JackCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_02"/>
+				<Event Id="426988935" Name="JackCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jack\JackCustom_03"/>
+				<Event Id="2529322020" Name="JamesCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_01"/>
+				<Event Id="2529322023" Name="JamesCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_02"/>
+				<Event Id="2529322022" Name="JamesCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_03"/>
+				<Event Id="3721384044" Name="JennaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_01"/>
+				<Event Id="3721384047" Name="JennaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_02"/>
+				<Event Id="3721384046" Name="JennaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_03"/>
+				<Event Id="1840304468" Name="JennyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_01"/>
+				<Event Id="1840304471" Name="JennyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_02"/>
+				<Event Id="1840304470" Name="JennyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="946174303" Name="LeroyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_01"/>
+				<Event Id="946174300" Name="LeroyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_02"/>
+				<Event Id="946174301" Name="LeroyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_03"/>
+				<Event Id="3017065837" Name="LukeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Luke\LukeCustom_01"/>
+				<Event Id="3017065838" Name="LukeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Luke\LukeCustom_02"/>
+				<Event Id="3017065839" Name="LukeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Luke\LukeCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14967820" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_78B53E05.wem</Path>
+				</File>
+				<File Id="31437236" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_6E24B0BD.wem</Path>
+				</File>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="88171752" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_F988D982.wem</Path>
+				</File>
+				<File Id="97394752" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_58E3C3CD.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="179884788" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_7768C7E9.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="249679868" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_DB36D8C0.wem</Path>
+				</File>
+				<File Id="259089023" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_5EDA5E04.wem</Path>
+				</File>
+				<File Id="282548665" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_812F0D05.wem</Path>
+				</File>
+				<File Id="293744596" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem</Path>
+				</File>
+				<File Id="317993214" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_E91CD053.wem</Path>
+				</File>
+				<File Id="332198877" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_A5C26843.wem</Path>
+				</File>
+				<File Id="367588512" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_02D2FE8F.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="392584505" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_8D4E7EFE.wem</Path>
+				</File>
+				<File Id="403086888" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_3D9D65DE.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="581453378" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_903F48F4.wem</Path>
+				</File>
+				<File Id="587829002" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_8CC73B7A.wem</Path>
+				</File>
+				<File Id="588088719" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_34C5915E.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="630094654" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_FBA3C6D8.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="779146935" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem</Path>
+				</File>
+				<File Id="796962000" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_E0191037.wem</Path>
+				</File>
+				<File Id="807886432" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem</Path>
+				</File>
+				<File Id="891060226" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_64D351E4.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="913765953" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_9DDEE319.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+				<File Id="980768071" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_0B8E3331.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2278123342" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia6Bad</ObjectPath>
+			<ShortName>Dia6Bad</ShortName>
+			<Path>Dia6Bad.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3110848068" Name="DroppingGun" ObjectPath="\Events\Default Work Unit\Dia6Bad\DroppingGun"/>
+				<Event Id="3437271756" Name="DroppingPicture" ObjectPath="\Events\Default Work Unit\Dia6Bad\DroppingPicture"/>
+				<Event Id="4050572747" Name="GettingGun" ObjectPath="\Events\Default Work Unit\Dia6Bad\GettingGun"/>
+				<Event Id="1580542583" Name="GettingPicture" ObjectPath="\Events\Default Work Unit\Dia6Bad\GettingPicture"/>
+				<Event Id="1287408361" Name="GunShot" ObjectPath="\Events\Default Work Unit\Dia6Bad\GunShot"/>
+				<Event Id="1559339507" Name="MovingFurniture" ObjectPath="\Events\Default Work Unit\Dia6Bad\MovingFurniture"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="362496059" Language="SFX">
+					<ShortName>Draging Kitchen Cabinets 04.wav</ShortName>
+					<Path>SFX\Draging Kitchen Cabinets 04_B35DD066.wem</Path>
+				</File>
+				<File Id="903112018" Language="SFX">
+					<ShortName>26 Beretta Pistol (32 Cal.).wav</ShortName>
+					<Path>SFX\26 Beretta Pistol (32 Cal.)_A34C4F2F.wem</Path>
+				</File>
+				<File Id="923044462" Language="SFX">
+					<ShortName>65 Book Drop On Table.wav</ShortName>
+					<Path>SFX\65 Book Drop On Table_5986A379.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2334787101" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia3A_1</ObjectPath>
+			<ShortName>Dia3A_1</ShortName>
+			<Path>Dia3A_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="805220752" Name="Sink" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Sink"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="241059728" Language="SFX">
+					<ShortName>39 Brushing Teeth.wav</ShortName>
+					<Path>SFX\39 Brushing Teeth_697F0963.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="523099305" Language="SFX">
+					<ShortName>draining sink 2.wav</ShortName>
+					<Path>SFX\draining sink 2_5905CB98.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2334787102" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia3A_2</ObjectPath>
+			<ShortName>Dia3A_2</ShortName>
+			<Path>Dia3A_2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4281232125" Name="Action02" ObjectPath="\Events\Default Work Unit\Soundtracks\Action02"/>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="4080227583" Name="FeltWater" ObjectPath="\Events\Default Work Unit\Dia4A_3\FeltWater"/>
+				<Event Id="3721384044" Name="JennaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_01"/>
+				<Event Id="3721384047" Name="JennaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_02"/>
+				<Event Id="3721384046" Name="JennaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenna\JennaCustom_03"/>
+				<Event Id="1840304468" Name="JennyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_01"/>
+				<Event Id="1840304471" Name="JennyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_02"/>
+				<Event Id="1840304470" Name="JennyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Jenny\JennyCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="149218691" Name="MarianneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_01"/>
+				<Event Id="149218688" Name="MarianneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_02"/>
+				<Event Id="149218689" Name="MarianneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="2181916659" Name="SeTrocarPiscina" ObjectPath="\Events\Default Work Unit\Dia3A_2\SeTrocarPiscina"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+				<Event Id="2480698417" Name="SwimAudio" ObjectPath="\Events\Default Work Unit\Dia3A_2\SwimAudio"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="31437236" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_6E24B0BD.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="259089023" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_5EDA5E04.wem</Path>
+				</File>
+				<File Id="305011810" Language="SFX">
+					<ShortName>DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com).wav</ShortName>
+					<Path>SFX\DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com)_8DF5F579.wem</Path>
+				</File>
+				<File Id="362886362" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_2412346E.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="395654687" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_F2EE60A8.wem</Path>
+				</File>
+				<File Id="455251196" Language="SFX">
+					<ShortName>15 130 D.wav</ShortName>
+					<Path>SFX\15 130 D_BA19D509.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="571443548" Language="SFX">
+					<ShortName>Water_Splash_SeaLion_Fienup_001.wav</ShortName>
+					<Path>SFX\Water_Splash_SeaLion_Fienup_001_55EBDC3F.wem</Path>
+				</File>
+				<File Id="581453378" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_903F48F4.wem</Path>
+				</File>
+				<File Id="588088719" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_34C5915E.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="682281079" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_B5552D9B.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="704598463" Language="SFX">
+					<ShortName>NPC_Human_Swim_Forward_Crawl_2D_02.wav</ShortName>
+					<Path>SFX\NPC_Human_Swim_Forward_Crawl_2D_02_973A3CAE.wem</Path>
+				</File>
+				<File Id="796962000" Language="SFX">
+					<ShortName>Voice03_Jenny.wav</ShortName>
+					<Path>SFX\Voice03_Jenny_E0191037.wem</Path>
+				</File>
+				<File Id="891060226" Language="SFX">
+					<ShortName>Voice08_Jenna.wav</ShortName>
+					<Path>SFX\Voice08_Jenna_64D351E4.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2334787103" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia3A_3</ObjectPath>
+			<ShortName>Dia3A_3</ShortName>
+			<Path>Dia3A_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3287149722" Name="BigBCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_01"/>
+				<Event Id="3287149721" Name="BigBCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_02"/>
+				<Event Id="3287149720" Name="BigBCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\BigB\BigBCustom_03"/>
+				<Event Id="761317827" Name="CrisCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_01"/>
+				<Event Id="761317824" Name="CrisCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_02"/>
+				<Event Id="761317825" Name="CrisCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="2529322020" Name="JamesCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_01"/>
+				<Event Id="2529322023" Name="JamesCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_02"/>
+				<Event Id="2529322022" Name="JamesCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="2181916659" Name="SeTrocarPiscina" ObjectPath="\Events\Default Work Unit\Dia3A_2\SeTrocarPiscina"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="97394752" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_58E3C3CD.wem</Path>
+				</File>
+				<File Id="179884788" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_7768C7E9.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="305011810" Language="SFX">
+					<ShortName>DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com).wav</ShortName>
+					<Path>SFX\DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com)_8DF5F579.wem</Path>
+				</File>
+				<File Id="332198877" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_A5C26843.wem</Path>
+				</File>
+				<File Id="367588512" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_02D2FE8F.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="392370851" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_2AC3D84A.wem</Path>
+				</File>
+				<File Id="472390140" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_073094D9.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="587829002" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_8CC73B7A.wem</Path>
+				</File>
+				<File Id="630094654" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_FBA3C6D8.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="897088208" Language="SFX">
+					<ShortName>VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\GORDO BOBO\160307-efx-fazgame-voz11_4778DA51.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2848958458" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia3B</ObjectPath>
+			<ShortName>Dia3B</ShortName>
+			<Path>Dia3B.bnk</Path>
+			<IncludedEvents>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="663045065" Name="Diario" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Diario"/>
+				<Event Id="4080227583" Name="FeltWater" ObjectPath="\Events\Default Work Unit\Dia4A_3\FeltWater"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="149218691" Name="MarianneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_01"/>
+				<Event Id="149218688" Name="MarianneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_02"/>
+				<Event Id="149218689" Name="MarianneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="4087199459" Name="SeDeitou" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\SeDeitou"/>
+				<Event Id="2181916659" Name="SeTrocarPiscina" ObjectPath="\Events\Default Work Unit\Dia3A_2\SeTrocarPiscina"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+				<Event Id="2480698417" Name="SwimAudio" ObjectPath="\Events\Default Work Unit\Dia3A_2\SwimAudio"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="179920325" Language="SFX">
+					<ShortName>Paper Handling and Turning Sequence.wav</ShortName>
+					<Path>SFX\Paper Handling and Turning Sequence_BC4E3CFC.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="305011810" Language="SFX">
+					<ShortName>DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com).wav</ShortName>
+					<Path>SFX\DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com)_8DF5F579.wem</Path>
+				</File>
+				<File Id="362886362" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_2412346E.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="395654687" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_F2EE60A8.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="571443548" Language="SFX">
+					<ShortName>Water_Splash_SeaLion_Fienup_001.wav</ShortName>
+					<Path>SFX\Water_Splash_SeaLion_Fienup_001_55EBDC3F.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="682281079" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_B5552D9B.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="704598463" Language="SFX">
+					<ShortName>NPC_Human_Swim_Forward_Crawl_2D_02.wav</ShortName>
+					<Path>SFX\NPC_Human_Swim_Forward_Crawl_2D_02_973A3CAE.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="1015505133" Language="SFX">
+					<ShortName>NPC_Human_Idle_Bed_Exit_Right_Fast_01.wav</ShortName>
+					<Path>SFX\NPC_Human_Idle_Bed_Exit_Right_Fast_01_BD25636A.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2865736009" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia2B</ObjectPath>
+			<ShortName>Dia2B</ShortName>
+			<Path>Dia2B.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="2827377004" Name="ArmarioFechando" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\ArmarioFechando"/>
+				<Event Id="761317827" Name="CrisCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_01"/>
+				<Event Id="761317824" Name="CrisCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_02"/>
+				<Event Id="761317825" Name="CrisCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Cris\CrisCustom_03"/>
+				<Event Id="663045065" Name="Diario" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Diario"/>
+				<Event Id="1354761298" Name="EmilyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_01"/>
+				<Event Id="1354761297" Name="EmilyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_02"/>
+				<Event Id="1354761296" Name="EmilyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_03"/>
+				<Event Id="2529322020" Name="JamesCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_01"/>
+				<Event Id="2529322023" Name="JamesCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_02"/>
+				<Event Id="2529322022" Name="JamesCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\James\JamesCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="946174303" Name="LeroyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_01"/>
+				<Event Id="946174300" Name="LeroyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_02"/>
+				<Event Id="946174301" Name="LeroyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Leroy\LeroyCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="2535727499" Name="SecretariaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_01"/>
+				<Event Id="2535727496" Name="SecretariaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_02"/>
+				<Event Id="2535727497" Name="SecretariaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_03"/>
+				<Event Id="4087199459" Name="SeDeitou" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\SeDeitou"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="97394752" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_58E3C3CD.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="175551161" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_A455EF7D.wem</Path>
+				</File>
+				<File Id="179884788" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_7768C7E9.wem</Path>
+				</File>
+				<File Id="179920325" Language="SFX">
+					<ShortName>Paper Handling and Turning Sequence.wav</ShortName>
+					<Path>SFX\Paper Handling and Turning Sequence_BC4E3CFC.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="249679868" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_DB36D8C0.wem</Path>
+				</File>
+				<File Id="293744596" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem</Path>
+				</File>
+				<File Id="305011810" Language="SFX">
+					<ShortName>DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com).wav</ShortName>
+					<Path>SFX\DRS_Metal_Bunker_Door_A_Close_02 (online-audio-converter.com)_8DF5F579.wem</Path>
+				</File>
+				<File Id="317993214" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_E91CD053.wem</Path>
+				</File>
+				<File Id="332198877" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_A5C26843.wem</Path>
+				</File>
+				<File Id="367588512" Language="SFX">
+					<ShortName>Voice04_Cris.wav</ShortName>
+					<Path>SFX\Voice04_Cris_02D2FE8F.wem</Path>
+				</File>
+				<File Id="401671933" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_3D33598B.wem</Path>
+				</File>
+				<File Id="403086888" Language="SFX">
+					<ShortName>Voice01_Leroy.wav</ShortName>
+					<Path>SFX\Voice01_Leroy_3D9D65DE.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="491562406" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_9E69E797.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="587829002" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_8CC73B7A.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="630094654" Language="SFX">
+					<ShortName>Voice05_James.wav</ShortName>
+					<Path>SFX\Voice05_James_FBA3C6D8.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="779146935" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem</Path>
+				</File>
+				<File Id="807886432" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+				<File Id="1015505133" Language="SFX">
+					<ShortName>NPC_Human_Idle_Bed_Exit_Right_Fast_01.wav</ShortName>
+					<Path>SFX\NPC_Human_Idle_Bed_Exit_Right_Fast_01_BD25636A.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2882513628" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia1B</ObjectPath>
+			<ShortName>Dia1B</ShortName>
+			<Path>Dia1B.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="691892319" Name="DanCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_01"/>
+				<Event Id="691892316" Name="DanCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_02"/>
+				<Event Id="691892317" Name="DanCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Dan\DanCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="149218691" Name="MarianneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_01"/>
+				<Event Id="149218688" Name="MarianneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_02"/>
+				<Event Id="149218689" Name="MarianneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Marianne\MarianneCustom_03"/>
+				<Event Id="4199484308" Name="PamelaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_01"/>
+				<Event Id="4199484311" Name="PamelaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_02"/>
+				<Event Id="4199484310" Name="PamelaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Pamela\PamelaCustom_03"/>
+				<Event Id="2535727499" Name="SecretariaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_01"/>
+				<Event Id="2535727496" Name="SecretariaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_02"/>
+				<Event Id="2535727497" Name="SecretariaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_03"/>
+				<Event Id="4185777061" Name="StephenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_01"/>
+				<Event Id="4185777062" Name="StephenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_02"/>
+				<Event Id="4185777063" Name="StephenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_03"/>
+				<Event Id="2935680425" Name="StevenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_01"/>
+				<Event Id="2935680426" Name="StevenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_02"/>
+				<Event Id="2935680427" Name="StevenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Steven\StevenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="116793765" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_5903BF0E.wem</Path>
+				</File>
+				<File Id="175551161" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_A455EF7D.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="238646209" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_64225425.wem</Path>
+				</File>
+				<File Id="362886362" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_2412346E.wem</Path>
+				</File>
+				<File Id="374283509" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem</Path>
+				</File>
+				<File Id="377844450" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem</Path>
+				</File>
+				<File Id="395654687" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_F2EE60A8.wem</Path>
+				</File>
+				<File Id="401671933" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_3D33598B.wem</Path>
+				</File>
+				<File Id="491562406" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_9E69E797.wem</Path>
+				</File>
+				<File Id="511259904" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_2C7424DB.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="615367133" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_9A162DB9.wem</Path>
+				</File>
+				<File Id="682281079" Language="SFX">
+					<ShortName>Voice07_Pamela.wav</ShortName>
+					<Path>SFX\Voice07_Pamela_B5552D9B.wem</Path>
+				</File>
+				<File Id="685435698" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_A90FD5B6.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="918580684" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_1213CC1C.wem</Path>
+				</File>
+				<File Id="975658642" Language="SFX">
+					<ShortName>Voice12_Pamela.wav</ShortName>
+					<Path>SFX\Voice12_Pamela_33A9F1D3.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+				<File Id="1051368459" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_9272CF8D.wem</Path>
+				</File>
+				<File Id="1060002512" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz3.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem</Path>
+				</File>
+				<File Id="1062955276" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz7.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_831BFC93.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3731551921" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia6Soso</ObjectPath>
+			<ShortName>Dia6Soso</ShortName>
+			<Path>Dia6Soso.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3860166818" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia6Good</ObjectPath>
+			<ShortName>Dia6Good</ShortName>
+			<Path>Dia6Good.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4151124160" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia2A_3</ObjectPath>
+			<ShortName>Dia2A_3</ShortName>
+			<Path>Dia2A_3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1354761298" Name="EmilyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_01"/>
+				<Event Id="1354761297" Name="EmilyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_02"/>
+				<Event Id="1354761296" Name="EmilyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Emily\EmilyCustom_03"/>
+				<Event Id="1564629279" Name="GeorgeCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_01"/>
+				<Event Id="1564629276" Name="GeorgeCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_02"/>
+				<Event Id="1564629277" Name="GeorgeCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\George\GeorgeCustom_03"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="993972607" Name="PegouDiario" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\PegouDiario"/>
+				<Event Id="4087199459" Name="SeDeitou" ObjectPath="\Events\Default Work Unit\Dia1A_3\Interactions\SeDeitou"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="170650" Language="SFX">
+					<ShortName>PHY_Paper_Book_L_03.wav</ShortName>
+					<Path>SFX\PHY_Paper_Book_L_03_69982D43.wem</Path>
+				</File>
+				<File Id="89765353" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem</Path>
+				</File>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="293744596" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A3086170.wem</Path>
+				</File>
+				<File Id="482048844" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="603262572" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160307-efx-fazgame-voz14.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="779146935" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_A1C05A18.wem</Path>
+				</File>
+				<File Id="807886432" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz16.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz16_1AE45325.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+				<File Id="1015505133" Language="SFX">
+					<ShortName>NPC_Human_Idle_Bed_Exit_Right_Fast_01.wav</ShortName>
+					<Path>SFX\NPC_Human_Idle_Bed_Exit_Right_Fast_01_BD25636A.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4151124161" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia2A_2</ObjectPath>
+			<ShortName>Dia2A_2</ShortName>
+			<Path>Dia2A_2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="209137191" Name="Action" ObjectPath="\Events\Default Work Unit\Soundtracks\Action"/>
+				<Event Id="2583980806" Name="AndyCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_01"/>
+				<Event Id="2583980805" Name="AndyCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_02"/>
+				<Event Id="2583980804" Name="AndyCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Andy\AndyCustom_03"/>
+				<Event Id="2572587972" Name="AnneCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_01"/>
+				<Event Id="2572587975" Name="AnneCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_02"/>
+				<Event Id="2572587974" Name="AnneCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Anne\AnneCustom_03"/>
+				<Event Id="2453418313" Name="KevinCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_01"/>
+				<Event Id="2453418314" Name="KevinCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_02"/>
+				<Event Id="2453418315" Name="KevinCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kevin\KevinCustom_03"/>
+				<Event Id="913700812" Name="RonaldCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_01"/>
+				<Event Id="913700815" Name="RonaldCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_02"/>
+				<Event Id="913700814" Name="RonaldCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Ronald\RonaldCustom_03"/>
+				<Event Id="2535727499" Name="SecretariaCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_01"/>
+				<Event Id="2535727496" Name="SecretariaCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_02"/>
+				<Event Id="2535727497" Name="SecretariaCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Secretaria\SecretariaCustom_03"/>
+				<Event Id="4185777061" Name="StephenCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_01"/>
+				<Event Id="4185777062" Name="StephenCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_02"/>
+				<Event Id="4185777063" Name="StephenCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Stephen\StephenCustom_03"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14967820" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_78B53E05.wem</Path>
+				</File>
+				<File Id="79382956" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_5F682163.wem</Path>
+				</File>
+				<File Id="88171752" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_F988D982.wem</Path>
+				</File>
+				<File Id="101521915" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_681014E8.wem</Path>
+				</File>
+				<File Id="175551161" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_A455EF7D.wem</Path>
+				</File>
+				<File Id="218025860" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem</Path>
+				</File>
+				<File Id="238646209" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_64225425.wem</Path>
+				</File>
+				<File Id="401671933" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_3D33598B.wem</Path>
+				</File>
+				<File Id="434011045" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_F1567578.wem</Path>
+				</File>
+				<File Id="491562406" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160317-efx-educitylabs-educity-voz9_9E69E797.wem</Path>
+				</File>
+				<File Id="499298133" Language="SFX">
+					<ShortName>12 140 F.wav</ShortName>
+					<Path>SFX\12 140 F_BA19D509.wem</Path>
+				</File>
+				<File Id="511259904" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_2C7424DB.wem</Path>
+				</File>
+				<File Id="552102837" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem</Path>
+				</File>
+				<File Id="604661439" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_9E5234A1.wem</Path>
+				</File>
+				<File Id="693401207" Language="SFX">
+					<ShortName>VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11.wav</ShortName>
+					<Path>SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem</Path>
+				</File>
+				<File Id="913765953" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz1_9DDEE319.wem</Path>
+				</File>
+				<File Id="918580684" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz2_1213CC1C.wem</Path>
+				</File>
+				<File Id="959368615" Language="SFX">
+					<ShortName>VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1.wav</ShortName>
+					<Path>SFX\VOZES SFX\PAI_Professor\160317-efx-educitylabs-educity-voz1_A4D9FB3D.wem</Path>
+				</File>
+				<File Id="976704282" Language="SFX">
+					<ShortName>VOZES SFX\menino\160317-efx-educitylabs-educity-voz4.wav</ShortName>
+					<Path>SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz4_C1CADF0A.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4151124162" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dia2A_1</ObjectPath>
+			<ShortName>Dia2A_1</ShortName>
+			<Path>Dia2A_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="663045065" Name="Diario" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Diario"/>
+				<Event Id="1152300417" Name="KateCustom_01" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_01"/>
+				<Event Id="1152300418" Name="KateCustom_02" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_02"/>
+				<Event Id="1152300419" Name="KateCustom_03" ObjectPath="\Events\Default Work Unit\NPC'S\Kate\KateCustom_03"/>
+				<Event Id="1839364416" Name="Relogio" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Relogio"/>
+				<Event Id="119530393" Name="Wardrobe" ObjectPath="\Events\Default Work Unit\Dia1A_1\Interactions\Wardrobe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="178443675" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem</Path>
+				</File>
+				<File Id="179920325" Language="SFX">
+					<ShortName>Paper Handling and Turning Sequence.wav</ShortName>
+					<Path>SFX\Paper Handling and Turning Sequence_BC4E3CFC.wem</Path>
+				</File>
+				<File Id="401059053" Language="SFX">
+					<ShortName>Cuckoo Clock Toll_10.wav</ShortName>
+					<Path>SFX\Cuckoo Clock Toll_10_5C63A546.wem</Path>
+				</File>
+				<File Id="502540770" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem</Path>
+				</File>
+				<File Id="577606637" Language="SFX">
+					<ShortName>VOZES SFX\AS MINA\160307-efx-fazgame-voz17.wav</ShortName>
+					<Path>SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem</Path>
+				</File>
+				<File Id="887516344" Language="SFX">
+					<ShortName>door_open_004.wav</ShortName>
+					<Path>SFX\door_open_004_271B343F.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

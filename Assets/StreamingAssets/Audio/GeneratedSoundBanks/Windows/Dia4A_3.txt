@@ -1,0 +1,37 @@
+Event	ID	Name			Wwise Object Path	Notes
+	691892316	DanCustom_02			\Default Work Unit\NPC'S\Dan\DanCustom_02	
+	691892317	DanCustom_03			\Default Work Unit\NPC'S\Dan\DanCustom_03	
+	691892319	DanCustom_01			\Default Work Unit\NPC'S\Dan\DanCustom_01	
+	1152300417	KateCustom_01			\Default Work Unit\NPC'S\Kate\KateCustom_01	
+	1152300418	KateCustom_02			\Default Work Unit\NPC'S\Kate\KateCustom_02	
+	1152300419	KateCustom_03			\Default Work Unit\NPC'S\Kate\KateCustom_03	
+	1266172008	CharlieTyping			\Default Work Unit\Dia4A_3\CharlieTyping	
+	2453418313	KevinCustom_01			\Default Work Unit\NPC'S\Kevin\KevinCustom_01	
+	2453418314	KevinCustom_02			\Default Work Unit\NPC'S\Kevin\KevinCustom_02	
+	2453418315	KevinCustom_03			\Default Work Unit\NPC'S\Kevin\KevinCustom_03	
+	2480698417	SwimAudio			\Default Work Unit\Dia3A_2\SwimAudio	
+	4080227583	FeltWater			\Default Work Unit\Dia4A_3\FeltWater	
+	4199484308	PamelaCustom_01			\Default Work Unit\NPC'S\Pamela\PamelaCustom_01	
+	4199484310	PamelaCustom_03			\Default Work Unit\NPC'S\Pamela\PamelaCustom_03	
+	4199484311	PamelaCustom_02			\Default Work Unit\NPC'S\Pamela\PamelaCustom_02	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	60142366	NPC_Human_Typing_05	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_05		102144
+	116793765	Voice12_Pamela_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice12_Pamela_5903BF0E.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Pamela\Voice12_Pamela_02		373772
+	178443675	Mom_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_02		136550
+	218025860	Kevin_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_9BD5344C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin_01		278636
+	374283509	Dan_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_3367E034.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Dan\Dan_02		313488
+	377844450	Dan_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_04EEC01A.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Dan\Dan_01		220100
+	502540770	Mom_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_01		105886
+	552102837	Kevin_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_E15DAADE.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin_02		369386
+	571443548	Water_Splash_SeaLion_Fienup_001	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Water_Splash_SeaLion_Fienup_001_55EBDC3F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Water_Splash_SeaLion_Fienup_001		135466
+	577606637	Mom	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom		105886
+	589360985	NPC_Human_Typing_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_02		102144
+	615367133	Voice12_Pamela_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice12_Pamela_9A162DB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Pamela\Voice12_Pamela_01		456504
+	693401207	Kevin	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160317-efx-educitylabs-educity-voz11_A11B68D3.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kevin\Kevin		386044
+	704598463	NPC_Human_Swim_Forward_Crawl_2D_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Swim_Forward_Crawl_2D_02_973A3CAE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia3A_2\NPC_Human_Swim_Forward_Crawl_2D_02		202324
+	755098780	NPC_Human_Typing_04	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_04		102144
+	896232550	NPC_Human_Typing_03	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_03		106752
+	975658642	Voice12_Pamela	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Voice12_Pamela_33A9F1D3.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Pamela\Voice12_Pamela		527824
+	1060002512	Dan	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz3_9537BD51.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Dan\Dan		333954
+

@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	119530393	Wardrobe			\Default Work Unit\Dia1A_1\Interactions\Wardrobe	
+	549763853	CarKeys			\Default Work Unit\Dia4A_1\CarKeys	
+	1152300417	KateCustom_01			\Default Work Unit\NPC'S\Kate\KateCustom_01	
+	1152300418	KateCustom_02			\Default Work Unit\NPC'S\Kate\KateCustom_02	
+	1152300419	KateCustom_03			\Default Work Unit\NPC'S\Kate\KateCustom_03	
+	1564629276	GeorgeCustom_02			\Default Work Unit\NPC'S\George\GeorgeCustom_02	
+	1564629277	GeorgeCustom_03			\Default Work Unit\NPC'S\George\GeorgeCustom_03	
+	1564629279	GeorgeCustom_01			\Default Work Unit\NPC'S\George\GeorgeCustom_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	89765353	Pai_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai_01		470838
+	170943685	78 Dog_Collar (online-audio-converter_com)	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\78 Dog_Collar (online-audio-converter.com)_A51F6442.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_1\78 Dog_Collar (online-audio-converter_com)		47492
+	178443675	Mom_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_02		136550
+	482048844	Pai	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai		375660
+	502540770	Mom_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_01		105886
+	577606637	Mom	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom		105886
+	603262572	Pai_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai_02		506656
+	887516344	Wardrobe	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\161117_Wwise_SecondChance\.cache\Windows\SFX\door_open_004_271B343F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia1A_1\Interactions\Wardrobe		67040
+

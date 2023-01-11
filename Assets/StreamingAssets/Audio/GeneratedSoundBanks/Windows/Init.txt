@@ -1,0 +1,7 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	2655354557	VoicesNPC			\Default Work Unit\Master Audio Bus\VoicesNPC	
+	3695637030	Soundtracks			\Default Work Unit\Master Audio Bus\Soundtracks	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+

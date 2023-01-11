@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 5e189d2f25cc6924bb95a1c095793562
+timeCreated: 1475442744
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SwimmSteven_0
+    21300002: SwimmSteven_1
+    21300004: SwimmSteven_2
+    21300006: SwimmSteven_3
+    21300008: SwimmSteven_4
+    21300010: SwimmSteven_5
+    21300012: SwimmSteven_6
+    21300014: SwimmSteven_7
+    21300016: SwimmSteven_8
+    21300018: SwimmSteven_9
+    21300020: SwimmSteven_10
+    21300022: SwimmSteven_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SwimmSteven_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 118
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 81
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 81
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 46
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 41
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 14
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SwimmSteven_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

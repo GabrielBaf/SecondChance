@@ -1,0 +1,54 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class GeorgeStaticAudio : MonoBehaviour {
+
+    public BoxCollider2D George;
+    public CircleCollider2D Player;
+    GameObject NPCSubtitlePanel;
+
+    bool IsPlaying = false;
+
+    void Awake()
+    {
+        NPCSubtitlePanel = GameObject.Find("NPC Subtitle Panel");
+    }
+
+    // Update is called once per frame
+    void Update () {
+
+        if (Player.IsTouching(George) && gameObject.GetComponent<GeorgeFirstSpeechAudio>() == null)
+        {
+            if (IsPlaying == false && NPCSubtitlePanel.activeSelf)
+            {
+                IsPlaying = true;
+
+                GeorgeAudioPlay();
+            }
+        }
+
+        if (NPCSubtitlePanel.activeSelf == false)
+        {
+            AudioStoping("GeorgeCustom_01", 1);
+            IsPlaying = false;
+        }
+
+    }
+
+    void GeorgeAudioPlay()
+    {
+        AudioPlaying("GeorgeCustom_01");
+    }
+
+    void AudioPlaying(string playing)
+    {
+        AkSoundEngine.PostEvent(playing, gameObject);
+    }
+
+    void AudioStoping(string playing, int fadeout)
+    {
+        uint eventID;
+        eventID = AkSoundEngine.GetIDFromString(playing);
+        AkSoundEngine.ExecuteActionOnEvent(eventID, AkActionOnEventType.AkActionOnEventType_Stop, gameObject, fadeout * 500, AkCurveInterpolation.AkCurveInterpolation_Sine);
+    }
+}

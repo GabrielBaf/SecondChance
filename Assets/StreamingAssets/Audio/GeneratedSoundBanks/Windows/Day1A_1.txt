@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	119530393	Wardrobe			\Default Work Unit\Day1_Home\Wardrobe	
+	663045065	Diario			\Default Work Unit\Day1_Home\Diario	
+	805220752	Sink			\Default Work Unit\Day1_Home\Sink	
+	929353362	Sandwish			\Default Work Unit\Day1_Home\Sandwish	
+	1568083719	TV			\Default Work Unit\Day1_Home\TV	
+	1839364416	Relogio			\Default Work Unit\Day1_Home\Relogio	
+	2150196036	Doors			\Default Work Unit\Day1_Home\Doors	
+	2164551921	DoorsLock			\Default Work Unit\Day1_Home\DoorsLock	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	120265338	DoorsLock	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\Door Lock_93380A70.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\DoorsLock		85016
+	179920325	Paper Handling and Turning Sequence	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\Paper Handling and Turning Sequence_CD40DCE1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\Paper Handling and Turning Sequence		648372
+	401059053	Cuckoo Clock Toll_10	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\Cuckoo Clock Toll_10_3A275DFF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\Cuckoo Clock Toll_10		329878
+	523099305	draining sink 2	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\draining sink 2_F921AD97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\draining sink 2		159568
+	673116538	Doors	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\door_open_004_AD188820.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\Doors		45584
+	887516344	Wardrobe	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\door_open_004_271B343F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\Wardrobe		67040
+	927776871	EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose_9A47F1EF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\EatingApple,Bite,Enjoying,Chewing,Breath,SemiClose		530702
+

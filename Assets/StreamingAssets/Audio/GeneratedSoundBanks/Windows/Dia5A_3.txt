@@ -1,0 +1,27 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1152300417	KateCustom_01			\Default Work Unit\NPC'S\Kate\KateCustom_01	
+	1152300418	KateCustom_02			\Default Work Unit\NPC'S\Kate\KateCustom_02	
+	1152300419	KateCustom_03			\Default Work Unit\NPC'S\Kate\KateCustom_03	
+	1266172008	CharlieTyping			\Default Work Unit\Dia4A_3\CharlieTyping	
+	1564629276	GeorgeCustom_02			\Default Work Unit\NPC'S\George\GeorgeCustom_02	
+	1564629277	GeorgeCustom_03			\Default Work Unit\NPC'S\George\GeorgeCustom_03	
+	1564629279	GeorgeCustom_01			\Default Work Unit\NPC'S\George\GeorgeCustom_01	
+	3057551812	CaseCustom_03			\Default Work Unit\NPC'S\Case\CaseCustom_03	
+	3057551813	CaseCustom_02			\Default Work Unit\NPC'S\Case\CaseCustom_02	
+	3057551814	CaseCustom_01			\Default Work Unit\NPC'S\Case\CaseCustom_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	60142366	NPC_Human_Typing_05	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_05		102144
+	89765353	Pai_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_73C574F2.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai_01		470838
+	178443675	Mom_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_02		136550
+	282548665	160317-efx-educitylabs-educity-voz7_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_812F0D05.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Case\160317-efx-educitylabs-educity-voz7_02		825916
+	392584505	160317-efx-educitylabs-educity-voz7_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_8D4E7EFE.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Case\160317-efx-educitylabs-educity-voz7_01		724308
+	482048844	Pai	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_34D7B104.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai		375660
+	502540770	Mom_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_01		105886
+	577606637	Mom	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom		105886
+	589360985	NPC_Human_Typing_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_02		102144
+	603262572	Pai_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\bullyng\160307-efx-fazgame-voz14_A350F564.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\George\Pai_02		506656
+	755098780	NPC_Human_Typing_04	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_04		102144
+	896232550	NPC_Human_Typing_03	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\NPC_Human_Typing_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia4A_3\Typing\NPC_Human_Typing_03		106752
+	980768071	160317-efx-educitylabs-educity-voz7	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz7_0B8E3331.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Case\160317-efx-educitylabs-educity-voz7		607076
+

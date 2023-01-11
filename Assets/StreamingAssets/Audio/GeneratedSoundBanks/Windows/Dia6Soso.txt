@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1152300417	KateCustom_01			\Default Work Unit\NPC'S\Kate\KateCustom_01	
+	1152300418	KateCustom_02			\Default Work Unit\NPC'S\Kate\KateCustom_02	
+	1152300419	KateCustom_03			\Default Work Unit\NPC'S\Kate\KateCustom_03	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	178443675	Mom_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_29795A94.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_02		136550
+	502540770	Mom_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_30599F60.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom_01		105886
+	577606637	Mom	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\AS MINA\160307-efx-fazgame-voz17_F94CE76C.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Kate\Mom		105886
+

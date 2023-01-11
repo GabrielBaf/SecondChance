@@ -1,0 +1,40 @@
+Event	ID	Name			Wwise Object Path	Notes
+	123504932	Dia6_Soso			\Default Work Unit\Soundtracks\Dia6_Soso	
+	676839673	Dia6_Bad			\Default Work Unit\Soundtracks\Dia6_Bad	
+	1584507803	Click			\Default Work Unit\SFX\Click	
+	1661450949	MainMenuSoundtrack			\Default Work Unit\MainMenu\MainMenuSoundtrack	
+	1839364416	Relogio			\Default Work Unit\Dia1A_1\Interactions\Relogio	
+	1866025847	Footstep			\Default Work Unit\SFX\Footstep	
+	1965502639	Dia6_Good			\Default Work Unit\Soundtracks\Dia6_Good	
+	2150196036	Doors			\Default Work Unit\SFX\Doors	
+	2164551921	DoorsLock			\Default Work Unit\SFX\DoorsLock	
+	2447300872	Dia3			\Default Work Unit\Soundtracks\Dia3	
+	2447300873	Dia2			\Default Work Unit\Soundtracks\Dia2	
+	2447300874	Dia1			\Default Work Unit\Soundtracks\Dia1	
+	2447300878	Dia5			\Default Work Unit\Soundtracks\Dia5	
+	2447300879	Dia4			\Default Work Unit\Soundtracks\Dia4	
+	2485912686	MenuAudio			\Default Work Unit\SFX\MenuAudio	
+	3771076737	Bullying			\Default Work Unit\Soundtracks\Bullying	
+	3858835088	CharlieCustom_03			\Default Work Unit\NPC'S\Charlie\CharlieCustom_03	
+	3858835089	CharlieCustom_02			\Default Work Unit\NPC'S\Charlie\CharlieCustom_02	
+	3858835090	CharlieCustom_01			\Default Work Unit\NPC'S\Charlie\CharlieCustom_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	95520496	Charlie_02	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_CCDAB353.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Charlie\Charlie_02		480932
+	101858290	Charlie_01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_E4EC0AFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Charlie\Charlie_01		551648
+	120265338	DoorsLock	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Door Lock_93380A70.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\AllDoors\DoorsLock		85016
+	139648479	Dia4A	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Saveiro-Track-Viola-160429_BA19D509.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia4A		1883989
+	144206188	MainMenuSoundtrack	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Boticario Natal 2016 -B_BFF28D4B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\MainMenuSoundtrack		983596
+	179598504	Dia6SoSo01	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Friboi-Trilha-151023-_F353A0BA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia6SoSo01		470967
+	183181789	Dia2	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Gol-Irmaos-160204-Part-A-Op-2_B62EAAE8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia2		829613
+	317091201	Bulllying	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\cea-china-piano_BA19D509.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Bulllying		1298315
+	357736675	17-19 Footsteps, Wood Female Barefoot	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\17-19 Footsteps, Wood Female Barefoot_540C8A87.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Footstep\17-19 Footsteps, Wood Female Barefoot		52384
+	377988779	Dia3_using	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Tam-Boticario-Armadilha-Trl-1_BA19D509.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia3_using		741506
+	401059053	Cuckoo Clock Toll_10	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Cuckoo Clock Toll_10_5C63A546.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dia1A_1\Interactions\Cuckoo Clock Toll_10		329878
+	603581008	Charlie	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\VOZES SFX\menino\160317-efx-educitylabs-educity-voz6_D7648BD2.wem		\Actor-Mixer Hierarchy\Default Work Unit\00_NPC\NPC_CustomVoices\Charlie\Charlie		488004
+	673116538	Doors	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\door_open_004_AD188820.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\AllDoors\Doors		45584
+	746707223	Arcade Click Positive 07	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Arcade Click Positive 07_F88C0666.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainMenu\Arcade Click Positive 07		60028
+	796471443	Dia1A	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Boticario Casamento-160601_1D5A6ECC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia1A		606858
+	822904320	Dia6Good	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\100427-PU_06-Rodrigo-60s_BA19D509.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia6Good		801671
+	1034854999	Dia5A	C:\Users\rawvr\Desktop\Raw Audio\Games\Em trabalho\SecondChance\FinalProject_Wwise_SecondChance\.cache\Windows\SFX\Gol-Irmaos-160203-90s-op2_DF1008CC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soundtracks\Dia5A		980355
+

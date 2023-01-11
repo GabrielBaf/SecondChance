@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1584507803	Click			\Default Work Unit\SFX\Click	
+	1661450949	MainMenuSoundtrack			\Default Work Unit\MainMenu\MainMenuSoundtrack	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	144206188	Boticario Natal 2016 - Menu	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\Boticario Natal 2016 -B_00EBF937.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainMenu\Boticario Natal 2016 - Menu		15781076
+	746707223	Arcade Click Positive 07	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\Arcade Click Positive 07_F88C0666.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainMenu\Arcade Click Positive 07		60028
+

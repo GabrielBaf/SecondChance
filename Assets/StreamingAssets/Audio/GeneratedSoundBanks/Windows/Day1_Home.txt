@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	119530393	Wardrobe			\Default Work Unit\Day1_Home\Wardrobe	
+	2150196036	Doors			\Default Work Unit\Day1_Home\Doors	
+	2164551921	DoorsLock			\Default Work Unit\Day1_Home\DoorsLock	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	120265338	DoorsLock	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\Door Lock_37250C96.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\DoorsLock		85016
+	673116538	Doors	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\door_open_004_FC3EDA28.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\Doors		45584
+	887516344	Wardrobe	C:\Users\rawvr\Documents\WwiseProjects\SecondChance\.cache\Windows\SFX\door_open_004_35F7DE10.wem		\Actor-Mixer Hierarchy\Default Work Unit\Day1_Home\Wardrobe		67040
+
